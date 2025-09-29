@@ -5,7 +5,7 @@ import QR from '../assets/QR.svg';
 const Contact = () => {
 
     function sendMessage() {
-        window.open('https://wa.me/528126307448/?text=%C2%A1Hola+Debanhi+%26+Luis%21%2C+los+he+contactado+por+medio+de+la+p%C3%A1gina+de+su+boda.', '_blank');
+        window.open('', '_blank');
     }
 
     function show() {

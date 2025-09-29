@@ -17,8 +17,8 @@ const Footer = () => {
                             BACK TO TOP
                         </Link>
                         <p className="mt-10 text-[1rem] font-extralight drop-shadow-2xl">
-                            © 2023 by Caissas | <a href="https://caissas.com" target="_blank"
-                                                    rel="noopener noreferrer">caissas.com</a>
+                            © 2023 by Armando Ochoa | <a href="https://armandochoa.com" target="_blank"
+                                                    rel="noopener noreferrer">armandochoa.com</a>
                         </p>
                     </div>
                 </div>

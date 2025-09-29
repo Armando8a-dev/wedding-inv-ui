@@ -14,7 +14,7 @@ const Gift = () => {
         }],
         site: {
             active: true,
-            link: 'https://www.amazon.com.mx/wedding/share/MesaDyL27102023'
+            link: 'https://www.amazon.com.mx/'
         }
     }, {
         id: 2,
@@ -24,7 +24,7 @@ const Gift = () => {
             text: 'Luis Fernando Alvarado Ferretiz'
         }, {
             id: 2,
-            text: 'Clabe: 058597000003253636'
+            text: 'Clabe: 000000000000000000'
         }],
         site: {
             active: false,

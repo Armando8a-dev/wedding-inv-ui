@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+# 🎉 ** Invitacion de Boda** 💍
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+¡Bienvenidos al repositorio del proyecto de una invitacion para boda! Este proyecto es una aplicación web interactiva diseñada para compartir información importante sobre el evento, como la cuenta regresiva, la galería de fotos, los lugares y mucho más.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 **Descripción del Proyecto**
+
+Esta página fue creada utilizando **React** y **TailwindCSS** para ofrecer una experiencia visual atractiva y moderna. Incluye secciones como:
+
+- **Inicio**: Una cálida bienvenida con la fecha del evento.
+- **Cuenta Regresiva**: Un temporizador dinámico para el gran día.
+- **Galería**: Fotos y videos destacados.
+- **Lugares**: Información sobre la ceremonia y el evento social.
+- **Regalos**: Opciones para contribuir a la mesa de regalos.
+- **Contacto**: Confirmación de asistencia y mensajes.
+
+---
+
+## 🛠️ **Tecnologías Utilizadas**
+
+- **React**: Biblioteca para construir interfaces de usuario.
+- **TailwindCSS**: Framework de CSS para estilos rápidos y personalizados.
+- **Firebase**: Para almacenamiento y configuración del backend.
+- **React Icons**: Iconos modernos y personalizables.
+
+---
+
+## 📜 **Scripts Disponibles**
+
+En el directorio del proyecto, puedes ejecutar:
 
 ### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Inicia la aplicación en modo de desarrollo.  
+Abre [http://localhost:3000](http://localhost:3000) para verla en tu navegador.  
+Los cambios se reflejarán automáticamente.
 
 ### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Ejecuta las pruebas en modo interactivo.  
+Consulta más información sobre [cómo ejecutar pruebas](https://facebook.github.io/create-react-app/docs/running-tests).
 
 ### `npm run build`
+Construye la aplicación para producción en la carpeta `build`.  
+Optimiza el código para el mejor rendimiento.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🌟 **Características Destacadas**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Cuenta Regresiva**: Temporizador en tiempo real para el evento.
+- **Galería Interactiva**: Visualización de imágenes y videos.
+- **Confirmación de Asistencia**: Formulario para ingresar un código único.
+- **Estilo Moderno**: Diseño responsivo y elegante.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📂 **Estructura del Proyecto**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🌐 **Demo en Vivo**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Puedes visitar la página en el siguiente enlace:  
+[**Página de Boda**](https://armandochoa.com/invitation)
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🤝 **Contribuciones**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Aunque este proyecto es personal, ¡las sugerencias son bienvenidas! Si tienes ideas para mejorar, no dudes en abrir un issue o enviar un pull request.
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📧 **Contacto**
 
-### Analyzing the Bundle Size
+Si tienes preguntas o necesitas ayuda, puedes contactarnos a través de la página o enviando un mensaje por WhatsApp.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+¡Gracias por visitar este repositorio y ser parte de este día tan especial! 🎊
