@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/invitation/static/css/main.24bda3f2.css",
+    "main.js": "/invitation/static/js/main.e644777c.js",
+    "static/media/D&L79.jpg": "/invitation/static/media/D&L79.a74135261b8fad3f4023.jpg",
+    "static/media/D&L112.jpg": "/invitation/static/media/D&L112.4e05ba1acab681b06ed7.jpg",
+    "static/media/video.mp4": "/invitation/static/media/video.194ef2aca23eaa2075a7.mp4",
+    "static/media/D&L51.jpg": "/invitation/static/media/D&L51.b23a68b4feb346bbc49b.jpg",
+    "static/media/D&L37.jpg": "/invitation/static/media/D&L37.90b146f885df9b266f10.jpg",
+    "static/media/D&L50.jpg": "/invitation/static/media/D&L50.7ae6714134a5eef1d8e0.jpg",
+    "static/media/D&L38.jpg": "/invitation/static/media/D&L38.1009083662b2957ea494.jpg",
+    "static/media/music.mp3": "/invitation/static/media/music.c377878f4b95814cbfb1.mp3",
+    "static/media/D&L4.jpg": "/invitation/static/media/D&L4.4bef8e2dda964c4ed50c.jpg",
+    "static/media/BG.jpg": "/invitation/static/media/BG.d3d6e4181cb27f1d0202.jpg",
+    "static/media/BG4.jpg": "/invitation/static/media/BG4.912ab1e9b8643eff3464.jpg",
+    "static/media/D&L43.jpg": "/invitation/static/media/D&L43.b5ba1afe39a4cbf53680.jpg",
+    "static/media/D&L110.jpg": "/invitation/static/media/D&L110.cc9ad502cd974c7367c5.jpg",
+    "static/media/D&L33.jpg": "/invitation/static/media/D&L33.12c6642e0b93e236dc5a.jpg",
+    "static/media/D&L67.jpg": "/invitation/static/media/D&L67.2acfacecf1d4122cd776.jpg",
+    "static/media/D&L84.jpg": "/invitation/static/media/D&L84.f4975024dcfebca94709.jpg",
+    "static/media/D&L35.jpg": "/invitation/static/media/D&L35.ce473869f4eefdb3af90.jpg",
+    "static/media/D&L64.jpg": "/invitation/static/media/D&L64.6dadd00317c593abebdb.jpg",
+    "static/media/D&L7.jpg": "/invitation/static/media/D&L7.0be76d3390c82d871737.jpg",
+    "static/media/D&L48.jpg": "/invitation/static/media/D&L48.659ee95c04c3ccaf0cc4.jpg",
+    "static/media/QR.svg": "/invitation/static/media/QR.6724f24f08078a48691779384879d106.svg",
+    "static/media/D&L.svg": "/invitation/static/media/D&L.7ae7df11b97735fe08dac6c785cc8b9a.svg",
+    "static/media/T7.svg": "/invitation/static/media/T7.5f2471fad94c8b9d723c163802f62d8c.svg",
+    "static/media/T8.svg": "/invitation/static/media/T8.67e7bb0e6835deb9d769a3b2879ff67b.svg",
+    "static/media/T4.svg": "/invitation/static/media/T4.98344567d33bd2f90ce58c079987361c.svg",
+    "static/media/T6.svg": "/invitation/static/media/T6.c3521732ad0f3865a233fc17efab9d87.svg",
+    "static/media/T3.svg": "/invitation/static/media/T3.85c295fb5384d6f78a547a9014d204a1.svg",
+    "static/media/T1.svg": "/invitation/static/media/T1.e576aa8fb8709374927c9bd35965a8b2.svg",
+    "static/media/T9.svg": "/invitation/static/media/T9.d01d3ab78fde835c39245c7750846666.svg",
+    "static/media/T5.svg": "/invitation/static/media/T5.899f379602e755c53d482362282de560.svg",
+    "index.html": "/invitation/index.html",
+    "main.24bda3f2.css.map": "/invitation/static/css/main.24bda3f2.css.map",
+    "main.e644777c.js.map": "/invitation/static/js/main.e644777c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24bda3f2.css",
+    "static/js/main.e644777c.js"
+  ]
+}
